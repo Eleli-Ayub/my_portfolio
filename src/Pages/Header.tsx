@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    <header className=" flex flex-row justify-between pt-10 px-20 max-h-20 w-full">
+    <header className=" flex flex-row justify-between pt-10 w-full">
       <img
         className="h-16 rounded-full"
         src={require("../Assets/Images/eleliAI.jpg")}
